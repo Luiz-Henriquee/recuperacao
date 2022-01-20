@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "cliente-ms"
+		},
+		{
+			"name": "locacao-ms",
+			"path": "locacao-ms"
+		},
+		{
+			"name": "eureka-server",
+			"path": "eureka-server"
+		},
+		{
+			"name": "zuul-server",
+			"path": "zuul-server"
+		},
+		{
+			"name": "recuperacao",
+			"path": "."
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "interactive"
+	}
+}
